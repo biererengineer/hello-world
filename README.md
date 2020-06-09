@@ -5,7 +5,7 @@
 learning code i hope will be fun
 # krumware will be here today.
 if it was easy, everyone could do it.
-# wtf am i doing here?
+# wtf am i doing anywhere?
 purple is my favorite color
 #include header.h
 
